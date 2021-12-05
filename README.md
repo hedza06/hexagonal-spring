@@ -14,7 +14,7 @@ We could say that actors are the environment of the application.
 Actors are arranged around the hexagon depending on who triggers the interaction between the application and the actor.
 
 ### Hexagonal architecture schema
-![alt text](https://github.com/hedza06/hexagonal-spring/resources/data/hex-schema.png)
+![alt text](https://github.com/hedza06/hexagonal-spring/blob/master/src/main/resources/data/hex-schema.png)
 
 ### Ports
 The interactions between actors and the application are organized at the hexagon boundary by the reason why they 
